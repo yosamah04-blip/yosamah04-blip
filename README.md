@@ -1,4 +1,4 @@
-<h1 align="center"> Osamah Yahya | أسامة يحيى </h1>
+<h1 align="center"> Osamah Yahya | أسامة مشوح </h1>
 <h3 align="center">Artificial Intelligence Student at University of Jeddah</h3>
 
 <p align="center">
@@ -13,7 +13,8 @@
 - 🏫 Studying at **University of Jeddah**
 - 📍 Jeddah, Saudi Arabia
 - 📚 Currently in **2nd year**
-- 🎯 Goal: Build a strong portfolio for internships and future AI roles
+- 🎯 Goal: Becoming a skilled AI engineer by continuously building projects,
+      improving problem-solving skills, and applying intelligent systems to real-world challenges
 
 ---
 
@@ -36,9 +37,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Tools
+### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=flat&logo=codeblocks&logoColor=white)
 
 ---
 
@@ -52,45 +56,45 @@
 
 ---
 
-## Featured Projects
+## Featured projects
 
-### 1. Retail Management System
-Academic OOP project with customer management, membership system, and ordering workflow.
+### 1. Retail management system
+Academic OOP project with customer management, membership system and ordering workflow.
 
-### 2. Course Programming Assignments
-A collection of university coding exercises and problem-solving tasks.
+### 2. Course programming tasks
+A collection of university programming exercises and problem-solving tasks.
 
-### 3. Personal Learning Projects
-Small projects built while learning Python, Java, and C++.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
+### 3. Personal learning projects
+Small projects created while learning Python, Java and C++.
 
 ---
 
-## Learning Roadmap
+## Github statistics
 
-- [x] C Programming
-- [x] Java Basics & OOP
-- [x] Python Fundamentals
-- [x] Data Structures
-- [ ] Machine Learning
-- [ ] Deep Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osama_Yahya&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama_Yahya&layout=compact" />
+</p>
+
+---
+
+## Learning road map
+
+- [x] C programming
+- [x] Java and OOP basics
+- [x] Python basics
+- [x] Data structures
+- [ ] Machine learning
+- [ ] Deep learning
 - [ ] Computer Vision
-- [ ] NLP
+- [ ] Neuro-Linguistic Programming
 
 ---
 
-## Connect With Me
+##Contact me
 
 <a href="https://www.linkedin.com/in/osamahmeshoah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Osamah%20Yahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -102,4 +106,4 @@ Small projects built while learning Python, Java, and C++.
 
 ---
 
-> “Consistency beats intensity.”
+> “Consistency trumps intensity.”
