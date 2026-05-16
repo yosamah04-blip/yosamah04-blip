@@ -47,14 +47,13 @@ Small projects created while learning Python, Java and C++.
 ---
 ## Connect With Me
 
-<a href=["https://www.linkedin.com/in/osamahmeshoah/](https://www.linkedin.com/in/osamahmeshoah)" target="_blank">
+<a href="https://www.linkedin.com/in/osamahmeshoah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Osamah%20Yahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:yosamah04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yosamah04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 ---
 
 > “Consistency trumps intensity.”
