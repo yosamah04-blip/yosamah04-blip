@@ -65,18 +65,18 @@ Academic OOP project with customer management, membership system and ordering wo
 A collection of university programming exercises and problem-solving tasks.
 
 ### 3. Personal learning projects
-Small projects created while learning Python, Java and C++.
+Small projects created while learning Python, Java and C.
 
 ---
 
-## Github statistics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama_Yahya&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yosamah04-blip&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama_Yahya&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosamah04-blip&layout=compact" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Small projects created while learning Python, Java and C++.
   <img src="https://img.shields.io/badge/LinkedIn-Osamah%20Yahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:yosamah04@gmail.com">
+<a href="yosamah04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yosamah04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
