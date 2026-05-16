@@ -100,7 +100,7 @@ Small projects created while learning Python, Java and C.
   <img src="https://img.shields.io/badge/LinkedIn-Osamah%20Yahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="yosamah04@gmail.com">
+<a href="maltino: yosamah04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yosamah04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
