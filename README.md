@@ -1,40 +1,101 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Derek</h1>
-<p align="left">
-  <a href="https://github.com/dereknguyen269">
-    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
-  </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+<h1 align="center">Osamah Yahya</h1>
+<h3 align="center">Artificial Intelligence Student at University of Jeddah</h3>
+
+<p align="center">
+  Building my journey in AI, software engineering, and problem solving.
 </p>
 
-<a href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
-</a>
+---
 
-- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
-- :computer: I'm currently working as a Software Engineer.
-- :dart: I'm currently working on my pet projects.
-- :video_game: I love Dota 2.
-- :coffee: I'm coffeer.
+## About Me
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```ruby
-CONST DEREK = {
-  pronouns: "He" | "him",
-  backend: ["Ruby", "Nodejs", "Go"],
-  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["Postgresql", "mySQL", "Redis"],
-  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 🎓 Bachelor's student in **Artificial Intelligence**
+- 🏫 Studying at **University of Jeddah**
+- 📍 Jeddah, Saudi Arabia
+- 📚 Currently in **2nd year**
+- 🎯 Goal: Build a strong portfolio for internships and future AI roles
 
 ---
+
+## Current Focus
+
+- Machine Learning fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Building academic and personal projects
+
+---
+
+## Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Skill Level
+
+- C → Intermediate
+- Java → Intermediate
+- Python → Intermediate
+- SQL → Beginner
+- C++ → Beginner
+
+---
+
+## Featured Projects
+
+### 1. Retail Management System
+Academic OOP project with customer management, membership system, and ordering workflow.
+
+### 2. Course Programming Assignments
+A collection of university coding exercises and problem-solving tasks.
+
+### 3. Personal Learning Projects
+Small projects built while learning Python, Java, and C++.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## Learning Roadmap
+
+- [x] C Programming
+- [x] Java Basics & OOP
+- [x] Python Fundamentals
+- [ ] Data Structures
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Computer Vision
+- [ ] NLP
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osamah%20Yahya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamahmeshoah/)
+
+[![Email](https://img.shields.io/badge/Email-yosamah04%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yosamah04@gmail.com)
+
+---
+
+> “Consistency beats intensity.”
